@@ -602,7 +602,7 @@ export default function CachepotPage() {
             >
               <div className="cp-img-frame">
                 <Image
-                  src="/cachepot.png"
+                  src="/CACHEPOT.png"
                   alt="Cachepot de Fibra de Coco Agrofor"
                   fill
                   className="object-contain p-14"

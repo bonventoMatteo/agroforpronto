@@ -485,7 +485,7 @@ export default function MeioVaso() {
             >
               <div className="mv-img-frame">
                 <Image
-                  src="/meio-vaso1.png"
+                  src="/Meio-Vaso1.png"
                   alt="Meio-Vaso de Fibra de Coco Agrofor"
                   fill
                   className="object-contain p-14"

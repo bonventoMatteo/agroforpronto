@@ -448,7 +448,7 @@ export default function PlacasPage() {
             >
               <div className="pl-img-frame">
                 <Image
-                  src="/meiovasocomplaca.png"
+                  src="/MeioVasocomPlaca.png"
                   alt="Placas Modulares de Fibra de Coco Agrofor"
                   fill
                   className="object-contain p-12"

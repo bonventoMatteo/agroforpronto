@@ -558,14 +558,7 @@ export default function HeroSection() {
                                 Explorar Produtos
                                 <ArrowRight />
                             </Link>
-                            <Link
-                                href="https://wa.me/553537141025"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="btn-secondary"
-                            >
 
-                            </Link>
                         </div>
 
                         <div className="stats-bar">
